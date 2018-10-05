@@ -1,2 +1,2 @@
-#demo VD
-#llansolac@strategying.com.
+#GitFlow added
+#Ready to merge
